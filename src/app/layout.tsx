@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "My Storefront",
+  title: "Elite Partners Law Firm",
 };
 
 export default function RootLayout({
