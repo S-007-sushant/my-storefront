@@ -6,7 +6,7 @@ import Banner from "@/components/ui/banner";
 const Body: React.FC = () => {
   return (
     // <div className="mt-10 flex w-auto flex-col items-center px-70">
-    <div>
+    <div className="mt-10 px-4 sm:px-12 md:px-24 lg:px-40 xl:px-60">
       <Banner />
     </div>
   );

@@ -4,8 +4,8 @@ import React from "react";
 
 const Banner: React.FC = () => {
   return (
-    <div className="bg-slate-30 relative flex min-h-screen flex-col overflow-x-hidden font-sans">
-      <div className="px-4 sm:px-12 md:px-24 lg:px-40 xl:px-60">
+    <div className="bg-slate-30 relative flex min-h-screen flex-col overflow-x-hidden px-5 font-sans">
+      <div>
         <div
           className="flex min-h-[400px] flex-col justify-end rounded-md bg-cover bg-center p-6 text-white md:h-120 md:min-h-[480px] md:p-10"
           style={{
